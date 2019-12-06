@@ -24,4 +24,4 @@ for i in `ls *.asm|cut -d\. -f2`;do gpasm vwcdpic-2.$i.asm;done
 
 hex/vwcdpic-3.x-2.7d-RCD300-1-pic12f629.hex is only version works with RCD300 head units! tested thx to Morten for test.
 
-
+for more updates and HW design check my new repo: https://github.com/tomaskovacik/vwcdpic/
